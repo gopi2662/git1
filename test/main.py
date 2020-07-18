@@ -1,4 +1,5 @@
-sprint1 started testing
-sprint-2
-fix the bug
+<<<<<<< HEAD
 solved
+=======
+>>>>>>> master
+>>>>>>> sprint-3
